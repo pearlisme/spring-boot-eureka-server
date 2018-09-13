@@ -2,4 +2,7 @@
 
 Eureka Discovery Server
 
-: Server port = 8070
+-----------------------
+  Appilication name   = SPRING-EUREKA
+  Server port         = 8070
+  
