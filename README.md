@@ -1,1 +1,3 @@
-# spring-boot-eureka-server EmployeeService
+# spring-boot-eureka-server
+
+Eureka Discovery Server
